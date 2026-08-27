@@ -1,0 +1,8 @@
+This folder holds generated model artifacts and is empty until you run:
+
+    python train_violence_model.py
+
+It will then contain:
+    violence_type_model.pkl
+    feature_encoders.pkl
+    target_encoder.pkl

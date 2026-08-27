@@ -1,0 +1,5 @@
+Place GEDEvent_v26_1.csv in this folder before running the app or training the model:
+
+    data/GEDEvent_v26_1.csv
+
+This is the UCDP Georeferenced Event Dataset, version 26.1.

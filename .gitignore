@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset (not distributed with this repo)
+data/*.csv
+
+# Trained model artifacts (regenerate with train_violence_model.py)
+models/*.pkl
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
